@@ -1,0 +1,61 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
+
+body{ font-size: 16px;
+/*color: #058c8e;  To set color in fonts about this page*/
+color: #058c8e;
+
+/*background-color: #edf4c7; To set color in background about this page*/
+background-color: 00375C;
+font-family: 'PT Mono',verdana;
+}
+
+h1, h2{
+  text-decoration: capitalize;
+}
+
+nav{
+  background-color: #A3201E;
+  border: black;
+
+}
+nav li
+{
+  display: inline;
+  padding-left: 1em;
+}
+
+nav ul
+{
+    text-align: center;
+}
+
+nav li a
+{
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+br.nofloat{
+}
+div.image
+{
+    float: letf;
+    border: 1px solid red;
+    padding: right;
+}
+
+div.foundation
+{
+    padding-left: 18em;
+}
+
+.foundation
+{
+  border: 3px solid yellow;
+  height: 180px;
+  border-radius: 10px 5 px 20px;
+  background-image: 
+}
